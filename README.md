@@ -1,5 +1,5 @@
 # Library Automation Images
-library procedure.
+A library application.
 
 <p>
 <a href="https://github.com/muratcelikk/Library-Automation/blob/master/img/Screenshot_1.png" target="_blank">
